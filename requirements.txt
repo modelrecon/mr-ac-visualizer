@@ -1,0 +1,16 @@
+# Core app
+streamlit>=1.24.0
+plotly>=5.15.0
+pandas>=2.0.0
+
+# Optional (data utilities)
+numpy>=1.25.0
+
+# Optional caching / performance
+cachetools>=5.4.0
+
+# Development & testing
+pytest>=7.4.0
+
+# JSON utilities (comes with Python, but included for clarity)
+ujson>=5.8.0
